@@ -35,5 +35,6 @@ How to reach me: Drey#0633 on Discord.
  <summary><h3>👨‍💻 Dreycods's Coding Journey</h3></summary>
  I started my coding journey as 14 years old when i arrived in france, with a passion to learn everything, i remember that i took my summer's holiday to learn how to code in LUA to make my own roblox game, i really enjoy project development itself, taking a concept and turning it into reality. 
  I made a lot of projects, but barely finished most of them, i guess that's one of my cons, but i learned a lot with them.
- i didn't just stay with lua, i made some couple projects in unity, godot, etc.
-Personally i really wish to work in a coding job meaningful to me or as a freelancer for some couple individuals, However there's something that's always bothered me, working without progression, repeating the same things over and over, that's just a no to me.
+ i didn't just stay with lua, i made some couple projects in unity, godot.
+ However, i'm trying to find a specific thing i should master, i know it has to do with development but i'm not sure of what it is exactly.
+I wish you the best for your code journey!💫
