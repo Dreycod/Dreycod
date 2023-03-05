@@ -5,7 +5,7 @@
 
 I'm an indie developer but mainly in love with development itself, All coding projects are built from scratch, i mainly upload things here when i want to share them.
 ---
-How to reach me: Drey#0633 (<a href = "discord.com" target = "_blank">Discord</a>)
+How to reach me: Drey#0633 (<a href = "discord.com">Discord</a>)
 
 ### 🧰 Languages and Tools
 
