@@ -1,6 +1,6 @@
 
-# 💫 Drey
-aka André Suzuki
+# 💫 Drey / André 
+
 **`Code Addict (App/Game dev)`**
 
 I'm an indie developer but mainly in love with development itself, All coding projects are built from scratch, i mainly upload things here when i want to share them.
