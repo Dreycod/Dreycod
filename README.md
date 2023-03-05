@@ -1,11 +1,39 @@
 
-<ul>
-  <li>💫 Amateur Developer </li> 
-  <li>👀 I’m interested in software,game and web development, trying to find my specialization </li> 
-   <li>⚡️ Current Skills: Html/LUA/LUAu/C#</li> 
-  <li>📫 How to reach me: Dreycod#0633 (<a href = "discord.com">Discord</a>) Twitter: <a href ="https://twitter.com/Dev_Dreycod" target = "_blank"> @Dreycod </a></li>
-</ul>
-<!---
-Dreycod/Dreycod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💫 Drey
+
+**`Code Addict (App/Game dev)`**
+
+I'm an indie developer but mainly in love with development itself, All coding projects are built from scratch, i mainly upload things here when i want to share them.
+---
+How to reach me: Drey#0633 (<a href = "discord.com" target = "_blank">Discord</a>)
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src=https://github.com/devicons/devicon/blob/v2.15.1/icons/lua/lua-original-wordmark.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Raspberrypi" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" />
+<img align="left" alt="VSC" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
+<br />
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreycod&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dreycod&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Dreycods's Coding Journey</h3></summary>
+ I started my coding journey as 14 years old when i arrived in france, with a passion to learn everything, i remember that i took my summer's holiday to learn how to code in LUA to make my own roblox game, i really enjoy project development itself, taking a concept and turning it into reality. 
+ I made a lot of projects, but barely finished most of them, i guess that's one of my cons, but i learned a lot with them.
+ i didn't just stay with lua, i made some couple projects in unity, godot, etc.
+Personally i really wish to work in a coding job meaningful to me or as a freelancer for some couple individuals, However there's something that's always bothered me, working without progression, repeating the same things over and over, that's just a no to me.
