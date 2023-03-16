@@ -3,7 +3,8 @@
 
 **`Code Addict (App/Game dev)`**
 
-I'm an indie developer but mainly in love with development itself, All coding projects are built from scratch, i mainly upload things here when i want to share them.
+An indie developer who codes for fun!
+All my repositories are free to use!
 ---
 How to reach me: Drey#0633 on Discord.
 
@@ -33,8 +34,15 @@ How to reach me: Drey#0633 on Discord.
 
 <details>
  <summary><h3>👨‍💻 Dreycods's Coding Journey</h3></summary>
- I started my coding journey as 14 years old when i arrived in france, with a passion to learn everything, i remember that i took my summer's holiday to learn how to code in LUA to make my own roblox game, i really enjoy project development itself, taking a concept and turning it into reality. 
- I made a lot of projects, but barely finished most of them, i guess that's one of my cons, but i learned a lot with them.
- i didn't just stay with lua, i made some couple projects in unity, godot.
- However, i'm trying to find a specific thing i should master, i know it has to do with development but i'm not sure of what it is exactly.
-I wish you the best for your code journey!💫
+i discovered a passion for coding as 14 years old, just right when i arrived in france,
+ 
+I remember that i spent my summer learning how to code for my first roblox game, i really enjoyed development, the idea of taking a concept and turning it into reality, was just amazing.
+ 
+Actually, i made a lot of projects, but unfortunately finished few of them, i guess that's one of my cons.
+It was a really fullfilling experience, i learned a lot.
+ 
+I tried a good amount of game engines like unity and godot.
+ 
+However, at the moment, i'm trying to find a specific thing i should master!
+ 
+I wish you the best for your coding career!💫
