@@ -36,7 +36,7 @@ How to reach me: Drey#0633 on Discord.
  <summary><h3>👨‍💻 Dreycods's Coding Journey</h3></summary>
 i discovered a passion for coding as 14 years old, just right when i arrived in france,
  
-I remember that i spent my summer learning how to code for my first roblox game, i really enjoyed development, the idea of taking a concept and turning it into reality, was just amazing.
+I remember that i spent my summer learning how to code my first roblox game, i really enjoyed development, the idea of taking a concept and turning it into reality, was just amazing.
  
 Actually, i made a lot of projects, but unfortunately finished few of them, i guess that's one of my cons.
 It was a really fullfilling experience, i learned a lot.
