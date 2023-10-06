@@ -1,7 +1,7 @@
 
 # 💫 Drey / André 
 
-**`Code Addict (App/Game dev)`**
+**`Code Addict`**
 
 An indie developer who codes for fun!
 All my repositories are free to use!
