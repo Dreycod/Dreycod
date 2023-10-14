@@ -6,7 +6,7 @@
 An indie developer who codes for fun!
 All my repositories are free to use!
 ---
-How to reach me: Drey#0633 on Discord.
+How to reach me: dreycod on Discord.
 
 ### 🧰 Languages and Tools
 
