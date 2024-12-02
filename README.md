@@ -24,19 +24,6 @@ I love learning and exploring new technologies. Here’s a look at the languages
 <img align="left" alt="CS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg"/>
 <br />
 
-### 🌟 Projects & Highlights
-
-I’ve worked on a wide range of projects that showcase my skills and interests. Here are some of my favorites:
-
-- **[Python Autoclicker](https://github.com/dreycod/python-autoclicker)**: A simple yet powerful autoclicker built with Python and customtkinter. Automate repetitive tasks with ease using a user-friendly GUI.
-- **[Blockchain API](https://github.com/dreycod/blockchain-api)**: A fully functional blockchain API built with Python and Flask, allowing users to mine blocks, validate chains, and track transactions.
-- **[IoT Smart Garden](https://github.com/dreycod/smart-garden)**: A Raspberry Pi-based IoT project that monitors soil moisture and controls irrigation, helping plants thrive with minimal effort.
-- **[JavaScript Portfolio](https://github.com/dreycod/portfolio)**: A responsive, interactive portfolio showcasing my skills, projects, and tech journey using HTML, CSS, and JavaScript.
-
-Feel free to explore the repositories, fork them, or even contribute your own ideas! 🚀
-
----
-
 ### 📊 Stats & Achievements
 
 Here are some of my GitHub stats to show you what I’ve been up to recently. I’m always striving to improve, create, and contribute more to the community!
@@ -58,4 +45,10 @@ I’m always open to new ideas and collaborations. Let's build something amazing
 
 ### 🌱 Currently Learning
 
-I’m constantly exploring new concepts, tools, and frameworks
+I’m constantly exploring new concepts, tools, and frameworks to stay ahead of the curve. Right now, I’m diving deeper into:
+
+- **Machine Learning & AI**: Exploring neural networks and building intelligent systems.
+- **Blockchain Development**: Understanding smart contracts and decentralized applications (dApps).
+- **Web Development**: Getting into full-stack development with Node.js, Express, and MongoDB.
+
+---
