@@ -1,10 +1,9 @@
-# 💫 Drey / André 
+# 💫 Drey
 
 **`Code Addict`** | **`Passionate Innovator`** | **`Open-Source Advocate`**
 
 Hey there! I'm an indie developer who loves building software, solving problems, and sharing my work with the community. I code because it's fun and challenging, and I believe in contributing to the open-source world to make it a better place for everyone.
-
-Whether I'm experimenting with Python, building JavaScript apps, or tinkering with hardware on Raspberry Pi, you'll find a variety of projects here that reflect my passion for coding and creativity. All of my repositories are **free to use** — feel free to fork, contribute, and create something amazing with them!
+you'll find a variety of projects here that reflect my passion for coding and creativity. All of my repositories are **free to use** — feel free to fork, contribute, and create something amazing with them!
 
 Let’s make something cool together! 🚀
 
@@ -48,7 +47,4 @@ I’m always open to new ideas and collaborations. Let's build something amazing
 I’m constantly exploring new concepts, tools, and frameworks to stay ahead of the curve. Right now, I’m diving deeper into:
 
 - **Machine Learning & AI**: Exploring neural networks and building intelligent systems.
-- **Blockchain Development**: Understanding smart contracts and decentralized applications (dApps).
-- **Web Development**: Getting into full-stack development with Node.js, Express, and MongoDB.
-
 ---
