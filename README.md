@@ -30,21 +30,3 @@ Here are some of my GitHub stats to show you what I’ve been up to recently. I�
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreycod&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dreycod&theme=gruvbox&border_radius=4.5)
-
----
-
-### 🤝 Let's Connect!
-
-- **Follow me**: [@dreycod](https://github.com/dreycod) for updates on my latest projects and contributions.
-- **Contact**: If you have any questions or want to collaborate on an open-source project, feel free to reach out via [email](mailto:dreycods@gmail.com).
-
-I’m always open to new ideas and collaborations. Let's build something amazing together! 💻🚀
-
----
-
-### 🌱 Currently Learning
-
-I’m constantly exploring new concepts, tools, and frameworks to stay ahead of the curve. Right now, I’m diving deeper into:
-
-- **Machine Learning & AI**: Exploring neural networks and building intelligent systems.
----
